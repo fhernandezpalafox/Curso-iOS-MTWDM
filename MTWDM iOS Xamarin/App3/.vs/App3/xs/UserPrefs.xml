@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CF07F6A7-EE78-4F7C-B50B-BDEB06D20D91}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App3/ViewController.cs">
+    <Files>
+      <File FileName="App3/AppDelegate.cs" Line="59" Column="33" />
+      <File FileName="App3/Main.storyboard" />
+      <File FileName="App3/ViewController.cs" Line="81" Column="125" />
+      <File FileName="App3/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.App3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D4C116-4437-452E-A8C7-CC8B77CA25C2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.App3>
+</Properties>

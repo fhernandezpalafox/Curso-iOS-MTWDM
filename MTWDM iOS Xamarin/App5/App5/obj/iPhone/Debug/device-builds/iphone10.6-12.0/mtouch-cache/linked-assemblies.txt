@@ -1,0 +1,4 @@
+RemoveDynamicRegistrar:true
+/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/bin/iPhone/Debug/device-builds/iphone10.6-12.0/App5.app:/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/obj/iPhone/Debug/device-builds/iphone10.6-12.0/mtouch-cache/1-Link/App5.exe
+/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/bin/iPhone/Debug/device-builds/iphone10.6-12.0/App5.app:/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/obj/iPhone/Debug/device-builds/iphone10.6-12.0/mtouch-cache/1-Link/mscorlib.dll
+/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/bin/iPhone/Debug/device-builds/iphone10.6-12.0/App5.app:/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/obj/iPhone/Debug/device-builds/iphone10.6-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll

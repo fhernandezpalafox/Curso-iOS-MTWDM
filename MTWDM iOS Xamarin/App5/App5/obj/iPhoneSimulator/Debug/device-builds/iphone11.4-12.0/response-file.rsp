@@ -1,0 +1,21 @@
+"--cache=/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/mtouch-cache"
+"--sim=/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/App5.app"
+--executable=App5
+--debug
+--nolink
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdk=12.0
+--targetver=12.0
+--aot-options=-O=-float32
+--http-message-handler=NSUrlSessionHandler
+--abi=x86_64
+"--symbollist=/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/mtouch-symbols.list"
+--dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+--target-framework=Xamarin.iOS,v1.0
+"--root-assembly=/Users/felipehernandez/Projects/MTWDM iOS Xamarin/App5/App5/bin/iPhoneSimulator/Debug/App5.exe"
+
