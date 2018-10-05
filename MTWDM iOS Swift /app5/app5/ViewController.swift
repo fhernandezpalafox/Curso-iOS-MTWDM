@@ -55,7 +55,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         subtotalTextfield.resignFirstResponder()
         tipPercentSlider.isEnabled = true
         
-        if subtotalTextfield.text?.characters.count == 0 {
+        if subtotalTextfield.text?.count == 0 { //characters.count
             subtotalTextfield.text = "$0.00"
             model.subtotalFromTextField = "0.00"
             updateLabels()
@@ -75,10 +75,13 @@ class ViewController: UIViewController, UITextFieldDelegate {
     }
     
     
+     // MARK: - Delegate TextField
     func textFieldDidBeginEditing(_ textField: UITextField) {
         tipPercentSlider.isEnabled = false
     }
     
+    
+    // MARK: - ViewDidLoad Ciclo de vida de mi ViewController
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -86,7 +89,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
         createToolbar()
         tipPercentSlider.isEnabled = false
     }
-
 
 }
 

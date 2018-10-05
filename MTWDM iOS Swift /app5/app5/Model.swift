@@ -10,7 +10,7 @@ class Model {
     var subtotalAsDecimal: NSDecimalNumber {
         return NSDecimalNumber(string: subtotalFromTextField)
     }
-    
+
     var tipPercent: NSDecimalNumber {
         return NSDecimalNumber(value: Double(tipPercentFromSlider)/100)
     }

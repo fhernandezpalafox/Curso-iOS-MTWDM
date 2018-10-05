@@ -15,7 +15,7 @@ namespace App5
 
         partial void dragSlider(UIKit.UISlider sender)
         {
-            tipPercentLabel.Text = $"Tip {sender.Value}%";
+            tipPercentLabel.Text = $"Tip {(int)sender.Value}%";
             objModel.tipPercentFromSlider = (int)sender.Value;
             updateLabels();
         }
