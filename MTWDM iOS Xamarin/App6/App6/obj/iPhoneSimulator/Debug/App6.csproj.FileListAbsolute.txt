@@ -1,0 +1,12 @@
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/bin/iPhoneSimulator/Debug/App6.exe
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/bin/iPhoneSimulator/Debug/App6.pdb
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/actool/_PartialAppManifest.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/coremlc/_PartialAppManifest.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.0/optimized/
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/App6.csprojAssemblyReference.cache
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/App6.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/App6.exe
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM-2018/MTWDM iOS Xamarin/App6/App6/obj/iPhoneSimulator/Debug/App6.pdb

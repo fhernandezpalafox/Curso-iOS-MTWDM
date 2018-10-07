@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F4062DFB-0BC5-45EF-8DB5-3173681F83D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App7/SegundaViewController.cs">
+    <Files>
+      <File FileName="App7/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="App7/ViewController.cs" Line="26" Column="13" />
+      <File FileName="App7/Main.storyboard" />
+      <File FileName="App7/SegundaViewController.cs" Line="22" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.App7 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D4C116-4437-452E-A8C7-CC8B77CA25C2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.App7>
+</Properties>
