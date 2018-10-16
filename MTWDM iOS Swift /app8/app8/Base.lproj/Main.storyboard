@@ -27,7 +27,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="wgs-13-m18">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="wgs-13-m18">
                                 <rect key="frame" x="16" y="239" width="343" height="343"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="wgs-13-m18" secondAttribute="height" multiplier="1:1" id="B8l-gr-WnZ"/>
