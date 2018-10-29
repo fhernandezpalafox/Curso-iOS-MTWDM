@@ -12,6 +12,8 @@ class ViewController: UITableViewController {
 
     // MARK: - Propiedades
     let alfabetoArreglo = Array(modelo.lugares.keys).sorted{$0 < $1}
+    //La Ñ
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -29,7 +31,8 @@ class ViewController: UITableViewController {
         let letra = alfabetoArreglo[section]
         
         switch section {
-        case 0...14: return modelo.lugares[letra]!.count
+        case 0...alfabetoArreglo.count: return modelo.lugares[letra]!.count
+            //case 0...14: return modelo.lugares[letra]!.count
         default: return 1
         }
         
@@ -43,8 +46,8 @@ class ViewController: UITableViewController {
         
         switch indexPath.section {
             
-        case 0...14: cell.textLabel?.text = modelo.lugares[letra]?[indexPath.row]
-            
+        //case 0...14: cell.textLabel?.text = modelo.lugares[letra]?[indexPath.row]
+        case 0...alfabetoArreglo.count: cell.textLabel?.text = modelo.lugares[letra]?[indexPath.row]
         default: break
         }
         
@@ -55,7 +58,8 @@ class ViewController: UITableViewController {
         let letra = alfabetoArreglo[section]
         
         switch section {
-        case 0...14: return letra
+        //case 0...14: return letra
+        case 0...alfabetoArreglo.count: return letra
         default: return letra
         }
     }
