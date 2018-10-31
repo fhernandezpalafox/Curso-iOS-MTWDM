@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{112F84C1-37EB-46EB-83B3-0071D14B4228}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App12/AltaComestibleViewController.cs">
+    <Files>
+      <File FileName="App12/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="App12/ViewController.cs" Line="13" Column="8" />
+      <File FileName="App12/Main.storyboard" />
+      <File FileName="App12/AltaComestibleViewController.cs" Line="37" Column="13" />
+      <File FileName="App12/Modelo.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.App12 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.959C8BA2-0356-44E3-B927-2E95685F1FE9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.App12>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
