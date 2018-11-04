@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{540B9D61-B6C4-4697-B9AA-E1163105CF76}|Default">
+  <MonoDevelop.Ide.ItemProperties.App14 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.959C8BA2-0356-44E3-B927-2E95685F1FE9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.App14>
+  <MonoDevelop.Ide.Workbench ActiveDocument="App14/ViewController.cs">
+    <Files>
+      <File FileName="App14/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="App14/ViewController.cs" Line="117" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
