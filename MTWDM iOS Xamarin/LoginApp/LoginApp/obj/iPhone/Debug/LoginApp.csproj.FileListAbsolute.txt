@@ -1,0 +1,9 @@
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhone/Debug/LoginApp.exe
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhone/Debug/LoginApp.pdb
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/actool/_PartialAppManifest.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/optimized/
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/LoginApp.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/LoginApp.exe
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/LoginApp.pdb

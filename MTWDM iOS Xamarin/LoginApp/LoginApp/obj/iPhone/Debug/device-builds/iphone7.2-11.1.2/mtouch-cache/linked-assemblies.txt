@@ -1,0 +1,3 @@
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhone/Debug/device-builds/iphone7.2-11.1.2/LoginApp.app:/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/mtouch-cache/Link/LoginApp.exe
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhone/Debug/device-builds/iphone7.2-11.1.2/LoginApp.app:/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/mtouch-cache/Link/mscorlib.dll
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhone/Debug/device-builds/iphone7.2-11.1.2/LoginApp.app:/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhone/Debug/device-builds/iphone7.2-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0CE95411-7A03-4701-98F2-CA73BCC8D158}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="LoginApp/AppDelegate.cs" Line="10" Column="40" />
+      <File FileName="LoginApp/LoginViewController.cs" Line="17" Column="4" />
+      <File FileName="LoginApp/ViewController.cs" Line="31" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LoginApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8EEB03FD-5599-47FE-8900-6275EFAF771E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.LoginApp>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

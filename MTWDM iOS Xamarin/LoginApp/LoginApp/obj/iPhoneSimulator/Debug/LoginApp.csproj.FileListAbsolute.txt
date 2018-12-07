@@ -1,0 +1,12 @@
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhoneSimulator/Debug/LoginApp.exe
+/Users/felipehernandez/Projects/LoginApp/LoginApp/bin/iPhoneSimulator/Debug/LoginApp.pdb
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/LoginApp.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/LoginApp.exe
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/LoginApp.pdb
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/actool/_PartialAppManifest.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/coremlc/_PartialAppManifest.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/optimized/
+/Users/felipehernandez/Projects/LoginApp/LoginApp/obj/iPhoneSimulator/Debug/LoginApp.csprojAssemblyReference.cache
