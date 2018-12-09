@@ -1,0 +1,15 @@
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/Entidades.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/Entidades.pdb
+/Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/optimized/
+/Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.pdb
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLite-net.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.core.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLite-net.pdb
+/Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLite-net.xml
+/Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.csprojAssemblyReference.cache
+/Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.csproj.CopyComplete

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1023CE29-5845-4E35-B7B8-25707FFE9E58}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppSQLite automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8EEB03FD-5599-47FE-8900-6275EFAF771E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppSQLite/ViewController.cs">
+    <Files>
+      <File FileName="AppSQLite/EditarViewController.cs" Line="22" Column="39" />
+      <File FileName="AppSQLite/AppDelegate.cs" Line="24" Column="33" />
+      <File FileName="AppSQLite/Settings.cs" Line="1" Column="1" />
+      <File FileName="AppSQLite/Utilidades.cs" Line="27" Column="13" />
+      <File FileName="AppSQLite/AltaViewController.cs" Line="103" Column="49" />
+      <File FileName="AppSQLite/Info.plist" />
+      <File FileName="AppSQLite/ViewController.cs" Line="253" Column="38" />
+      <File FileName="AppSQLite/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

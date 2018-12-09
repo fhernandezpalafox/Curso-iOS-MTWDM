@@ -1,0 +1,10 @@
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/AppSQLite.exe
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/Entidades.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/SQLite-net.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/SQLitePCLRaw.core.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/SQLitePCLRaw.batteries_v2.dll
+/Users/felipehernandez/Projects/AppSQLite/AppSQLite/bin/iPhone/Debug/AppSQLite.app:/Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhone/Debug/mtouch-cache/Link/SQLitePCLRaw.provider.sqlite3.dll
