@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         lblContador.text  =  String(contador)
         
     }
+    
     @IBAction func onResetear(_ sender: Any) {
         contador = 0
         lblContador.text  = "0"
