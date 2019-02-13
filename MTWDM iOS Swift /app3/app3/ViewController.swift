@@ -51,6 +51,7 @@ class ViewController: UIViewController {
     }
     
     
+    
     override func viewWillAppear(_ animated: Bool) {
         // Habilitado =  appDelegate.Habilitado
         NotificationCenter.default.addObserver(self, selector: #selector(onChangeSettings(notification:)),

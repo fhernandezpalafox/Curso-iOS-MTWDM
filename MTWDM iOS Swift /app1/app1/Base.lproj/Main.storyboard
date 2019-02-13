@@ -66,53 +66,5 @@
             </objects>
             <point key="canvasLocation" x="39" y="-100"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="Jkj-pS-DcL">
-            <objects>
-                <viewController id="NGb-8S-Hoe" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="iad-Rg-tAK">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="a7q-Xb-Os9">
-                                <rect key="frame" x="158.66666666666666" y="337.66666666666669" width="58" height="136.66666666666669"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O4z-0s-ajV">
-                                        <rect key="frame" x="0.0" y="0.0" width="58" height="82.666666666666671"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="69"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s4q-Kf-sZl">
-                                        <rect key="frame" x="0.0" y="82.666666666666629" width="58" height="54"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="35"/>
-                                        <state key="normal" title="Clic"/>
-                                    </button>
-                                </subviews>
-                            </stackView>
-                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="g5V-qr-GYr">
-                                <rect key="frame" x="0.0" y="44" width="375" height="44"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
-                                <items>
-                                    <barButtonItem title="Resetear" id="d9O-Fk-BmP"/>
-                                </items>
-                            </toolbar>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <constraints>
-                            <constraint firstItem="a7q-Xb-Os9" firstAttribute="centerY" secondItem="iad-Rg-tAK" secondAttribute="centerY" id="9QK-ql-gDd"/>
-                            <constraint firstItem="a7q-Xb-Os9" firstAttribute="centerX" secondItem="iad-Rg-tAK" secondAttribute="centerX" id="n3K-CN-0BS"/>
-                        </constraints>
-                        <viewLayoutGuide key="safeArea" id="cL9-6W-xah"/>
-                    </view>
-                    <toolbarItems>
-                        <barButtonItem title="Item" id="tEQ-NV-GjQ"/>
-                    </toolbarItems>
-                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Q7S-YL-vt6" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="903" y="-117"/>
-        </scene>
     </scenes>
 </document>
