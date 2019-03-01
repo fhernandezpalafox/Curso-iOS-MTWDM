@@ -29,11 +29,11 @@ class ViewController: UIViewController {
     
     // MARK: - Funciones
     func modificaFechaHora() {
-        dateFormatter.dateStyle = .medium
+        dateFormatter.dateStyle = DateFormatter.Style.medium //.medium
         dateFormatter.timeStyle = .medium
         
         lblFecha.text = dateFormatter.string(from: Date())
-        
+        lblFecha.sizeToFit()
     }
 }
 

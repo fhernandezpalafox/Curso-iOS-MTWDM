@@ -29,7 +29,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     // MARK: - Functions
     func createToolbar() {
         let toolbar = UIToolbar()
-        toolbar.barStyle = .default
+        toolbar.barStyle =  .default
         toolbar.sizeToFit()
         
         // create barbuttonitems

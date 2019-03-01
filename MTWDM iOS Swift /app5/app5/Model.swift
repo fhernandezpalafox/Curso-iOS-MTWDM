@@ -29,7 +29,7 @@ class Model {
     let formatter = NumberFormatter()
     
     var subtotalAsCurrency: String {
-        formatter.numberStyle = .currency
+        formatter.numberStyle =  .currency
         return formatter.string(from: subtotalAsDecimal as NSNumber)!
     }
     

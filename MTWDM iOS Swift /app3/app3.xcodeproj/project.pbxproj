@@ -7,15 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE26DF652214F64E00C6C3B1 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CE26DF642214F64E00C6C3B1 /* Settings.bundle */; };
 		FC2DB1E0214C7F9A009E1ABF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2DB1DF214C7F9A009E1ABF /* AppDelegate.swift */; };
 		FC2DB1E2214C7F9A009E1ABF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2DB1E1214C7F9A009E1ABF /* ViewController.swift */; };
 		FC2DB1E5214C7F9A009E1ABF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2DB1E3214C7F9A009E1ABF /* Main.storyboard */; };
 		FC2DB1E7214C7F9E009E1ABF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC2DB1E6214C7F9E009E1ABF /* Assets.xcassets */; };
 		FC2DB1EA214C7F9E009E1ABF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2DB1E8214C7F9E009E1ABF /* LaunchScreen.storyboard */; };
-		FC2DB1F2214C80D8009E1ABF /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FC2DB1F1214C80D8009E1ABF /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE26DF642214F64E00C6C3B1 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		FC2DB1DC214C7F9A009E1ABF /* app3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = app3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2DB1DF214C7F9A009E1ABF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC2DB1E1214C7F9A009E1ABF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -23,7 +24,6 @@
 		FC2DB1E6214C7F9E009E1ABF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC2DB1E9214C7F9E009E1ABF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC2DB1EB214C7F9E009E1ABF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FC2DB1F1214C80D8009E1ABF /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				FC2DB1E6214C7F9E009E1ABF /* Assets.xcassets */,
 				FC2DB1E8214C7F9E009E1ABF /* LaunchScreen.storyboard */,
 				FC2DB1EB214C7F9E009E1ABF /* Info.plist */,
-				FC2DB1F1214C80D8009E1ABF /* Settings.bundle */,
+				CE26DF642214F64E00C6C3B1 /* Settings.bundle */,
 			);
 			path = app3;
 			sourceTree = "<group>";
@@ -126,7 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC2DB1F2214C80D8009E1ABF /* Settings.bundle in Resources */,
+				CE26DF652214F64E00C6C3B1 /* Settings.bundle in Resources */,
 				FC2DB1EA214C7F9E009E1ABF /* LaunchScreen.storyboard in Resources */,
 				FC2DB1E7214C7F9E009E1ABF /* Assets.xcassets in Resources */,
 				FC2DB1E5214C7F9A009E1ABF /* Main.storyboard in Resources */,

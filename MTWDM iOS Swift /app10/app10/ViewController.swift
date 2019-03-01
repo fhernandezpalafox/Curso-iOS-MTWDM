@@ -14,9 +14,10 @@ class ViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.title = "Tabla"
+        
         self.navigationItem.leftBarButtonItem = self.editButtonItem
-        self.navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add,
-                                                                 target: self, action: nil)
+        self.navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem:  .add,target: self, action: nil)
         self.refreshControl = pullToRefreshControl
         pullToRefreshControl.addTarget(self, action: #selector(refreshTable), for: .valueChanged)
     }

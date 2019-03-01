@@ -22,6 +22,7 @@ class SegundaViewController: UIViewController {
         // Do any additional setup after loading the view.
         if let dato = MensajePropGlobal {
             msgLabel.text = dato
+            msgLabel.sizeToFit()
         }
     }
     

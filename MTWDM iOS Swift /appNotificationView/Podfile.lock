@@ -1,0 +1,16 @@
+PODS:
+  - NotificationView (0.2.0)
+
+DEPENDENCIES:
+  - NotificationView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NotificationView
+
+SPEC CHECKSUMS:
+  NotificationView: 7b41deaecc9a52005403cac88c3439a77c58437f
+
+PODFILE CHECKSUM: 5a5ea42b79e39aa9b74ca826eabd570f5350b882
+
+COCOAPODS: 1.6.1
