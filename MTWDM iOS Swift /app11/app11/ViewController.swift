@@ -60,6 +60,8 @@ class ViewController: UITableViewController {
     
     // Override to support editing the table view.
     override func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {
+        
+        
         if editingStyle == .delete {
             modelo.datos.remove(at: indexPath.row)
             // Delete the row from the data source
@@ -67,6 +69,7 @@ class ViewController: UITableViewController {
         } else if editingStyle == .insert {
             // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view
         }
+        
     }
     
     // Override to support rearranging the table view.

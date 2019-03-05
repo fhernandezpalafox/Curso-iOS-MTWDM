@@ -24,7 +24,7 @@ class LoginViewController: UIViewController {
     @IBAction func onEntrar(_ sender: Any) {
         
         /*
-         
+         Xamarin iOS by Felipe
          string usuario = txtUsuario.Text;
          string pass = txtPassword.Text;
          

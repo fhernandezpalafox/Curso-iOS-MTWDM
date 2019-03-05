@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     var plist = UserDefaults.standard
     
+    //Singleton
     let appDelegate = UIApplication.shared.delegate as! AppDelegate
     
     override func viewDidLoad() {
@@ -25,8 +26,9 @@ class ViewController: UIViewController {
         
         let mainStoryboard = appDelegate.MainStoryboard()
         
-        let viewController = appDelegate.GetViewController(storyboard: mainStoryboard, viewControllerName: "LoginViewController");
-        appDelegate.SetRootViewController(rootViewController: viewController,animate: true,tipo: 1);
+        let viewController = appDelegate.GetViewController(storyboard: mainStoryboard, viewControllerName: "LoginViewController")
+        
+        appDelegate.SetRootViewController(rootViewController: viewController,animate: true,tipo: 1)
         
     }
     

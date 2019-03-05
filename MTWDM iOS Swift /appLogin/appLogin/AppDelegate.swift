@@ -91,6 +91,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         let usuario =  plist.string(forKey: "usuario")
         
+        //Para los nulos
         if let usu  = usuario {
             
             if usu == "felipe"{
@@ -103,6 +104,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         if isAuthenticated {
             
             let viewController  = GetViewController(storyboard: MainStoryboard(), viewControllerName: "ViewController")
+            
             SetRootViewController(rootViewController: viewController, animate: false, tipo: 0)
             
         }else {
