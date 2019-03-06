@@ -23,13 +23,14 @@ class Modelo {
         "M": ["Machu Picchu, Peru", "Mamanuca Islands, Fiji"],
         "N": ["Neuschwanstein Castle, Germany"],
         "P": ["Pamukkale, Turkey", "Panjin Red Beach, China", "Petra, Jordan", "Puma Punku, Bolivia"],
-          "Ñ": ["Ñeuschwanstein Castle, Germany"],
         "R": ["Rice Terrace Fields in Mu Cang Chai, Vietnam"],
         "S": ["Santorini, Greece", "Sea Cliffs, Etretat, France", "St. Lucia"],
         "T": ["Tianzi Mountains, China"],
         "V": ["Venice, Italy"],
         "Y": ["Yellowstone National Park, Wyoming, USA", "Yosemite Valley, USA"],
-        "Z": ["Zhangye Danxia Landform in Gansu, China", "Zion National Park, Utah, USA"]
+        "Z": ["Zhangye Danxia Landform in Gansu, China", "Zion National Park, Utah, USA"],
+        "Ñ": ["Ñeuschwanstein Castle, Germany"]
+
         
     ]
 }

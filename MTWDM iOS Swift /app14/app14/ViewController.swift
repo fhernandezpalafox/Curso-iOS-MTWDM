@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UITableViewController {
         
         // MARK: - Propiedades
-       // let alfabetoArreglo = Array(modelo.lugares.keys).sorted{$0 < $1}
+      //  let alfabetoArreglo = Array(modelo.lugares.keys).sorted{$0 < $1}
     
     
     let alfabetoArreglo = Array(modelo.lugares.keys).sorted {
@@ -78,6 +78,8 @@ class ViewController: UITableViewController {
     override func sectionIndexTitles(for tableView: UITableView) -> [String]? {
         return alfabetoArreglo
     }
+    
+    
         
 }
 
