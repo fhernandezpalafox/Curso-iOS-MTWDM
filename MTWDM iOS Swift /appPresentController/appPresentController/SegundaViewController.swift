@@ -1,31 +1,26 @@
 //
-//  AltaViewController.swift
-//  app12
+//  SegundaViewController.swift
+//  appPresentController
 //
-//  Created by Felipe Hernandez on 10/19/18.
-//  Copyright © 2018 Felipe Hernandez. All rights reserved.
+//  Created by Felipe Hernandez on 3/12/19.
+//  Copyright © 2019 Felipe Hernandez. All rights reserved.
 //
 
 import UIKit
 
-class AltaViewController: UIViewController {
-
-    @IBAction func onAceptar(_ sender: Any) {
+class SegundaViewController: UIViewController {
+    @IBOutlet weak var toolbar: UIToolbar!
     
-        if EditorTexto.text.count > 0 {
-            modelo.datos.append(EditorTexto.text)
-        }
+    @IBAction func onBack(_ sender: Any) {
         
-        navigationController?.popToRootViewController(animated: true)
-        
+        dismiss(animated: true, completion: nil)
     }
-    
-    @IBOutlet weak var EditorTexto: UITextView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
+
+        toolbar.clipsToBounds = true
         // Do any additional setup after loading the view.
-        EditorTexto.becomeFirstResponder()
     }
     
 
