@@ -75,7 +75,7 @@ class AltaViewController: UIViewController {
         if (!esValido)
         {
             objUtilidades?.MessageBox(Titulo: "Validación", Mensaje: "Se debe de validar los campos", tipo: tipoMsg.Alert)
-            return;
+            return
         }
         
         let appDelegate = UIApplication.shared.delegate  as! AppDelegate
@@ -177,7 +177,6 @@ class AltaViewController: UIViewController {
 
         let toolbar =  UIToolbar()
             toolbar.barStyle  = .default
-        
         //Crear un label
 
         let labelTitulo = UILabel(frame: CGRect(x: 0, y: 50, width: 150, height: 20))
@@ -217,8 +216,17 @@ class AltaViewController: UIViewController {
     }
     
     @objc func onAceptarPicker(sender: UIBarButtonItem) {
-        txtRepresentanteLe.text = datasource[datoSeleccionado!]
+        
+        if datoSeleccionado != nil {
+            txtRepresentanteLe.text = datasource[datoSeleccionado!]
+            
+        }else
+        {
+            txtRepresentanteLe.text = datasource[0]
+        }
+        
         txtRepresentanteLe.resignFirstResponder()
+        
     }
     
     @objc func onCerrarPicker(sender: UIBarButtonItem) {
