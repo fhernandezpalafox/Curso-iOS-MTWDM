@@ -88,7 +88,8 @@ class ViewController: UIViewController {
             searchController = UISearchController(searchResultsController: nil)
             
             searchController?.hidesNavigationBarDuringPresentation = true
-            searchController?.dimsBackgroundDuringPresentation =  false
+            searchController?.dimsBackgroundDuringPresentation =  true
+            
             
             searchController?.searchBar.searchBarStyle = .minimal
             
@@ -118,11 +119,11 @@ extension ViewController : UISearchBarDelegate {
     
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         
-        let capturaDato = searchText;
+        let capturaDato = searchText
         
         print("dato escrito \(capturaDato)")
         
-        LlenarTabla(dato: capturaDato);
+        LlenarTabla(dato: capturaDato)
     }
     
     func searchBarCancelButtonClicked(_ searchBar: UISearchBar) {
