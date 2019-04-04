@@ -45,6 +45,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CEAAE8BC22559DCF000876A2 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				FCFE8C3621A3A2C200820B39 /* CabeceraTableViewCell.swift */,
+				FCFE8C3821A3A2D300820B39 /* PersonaTableViewCell.swift */,
+				FCFE8C3C21A3D91500820B39 /* InformacionPersonaTableViewCell.swift */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		CEAAE8BD22559DE6000876A2 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				FCC87CF321964B8F00FC519A /* Modelo.swift */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
 		FCC87CD52195B66800FC519A = {
 			isa = PBXGroup;
 			children = (
@@ -64,17 +82,15 @@
 		FCC87CE02195B66800FC519A /* app15 */ = {
 			isa = PBXGroup;
 			children = (
+				CEAAE8BD22559DE6000876A2 /* Data */,
+				CEAAE8BC22559DCF000876A2 /* Cells */,
 				FCC87CE12195B66800FC519A /* AppDelegate.swift */,
 				FCC87CE52195B66800FC519A /* Main.storyboard */,
 				FCC87CE82195B66E00FC519A /* Assets.xcassets */,
 				FCC87CEA2195B66E00FC519A /* LaunchScreen.storyboard */,
 				FCC87CED2195B66E00FC519A /* Info.plist */,
-				FCC87CF321964B8F00FC519A /* Modelo.swift */,
 				FCFE8C3421A389AA00820B39 /* ContactosTableViewController.swift */,
-				FCFE8C3621A3A2C200820B39 /* CabeceraTableViewCell.swift */,
-				FCFE8C3821A3A2D300820B39 /* PersonaTableViewCell.swift */,
 				FCFE8C3A21A3CA5600820B39 /* InformacionPersonaTableViewController.swift */,
-				FCFE8C3C21A3D91500820B39 /* InformacionPersonaTableViewCell.swift */,
 			);
 			path = app15;
 			sourceTree = "<group>";

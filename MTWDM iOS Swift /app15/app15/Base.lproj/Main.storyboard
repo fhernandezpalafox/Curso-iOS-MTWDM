@@ -245,7 +245,7 @@
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="tintColor" red="0.93725490570000003" green="0.97647058959999999" blue="0.96470588450000005" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="barTintColor" red="0.098140495867768573" green="0.36508264462809908" blue="0.94999999999999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="barTintColor" name="controlAccentColor" catalog="System" colorSpace="catalog"/>
                         <textAttributes key="titleTextAttributes">
                             <color key="textColor" red="0.93725490570000003" green="0.97647058959999999" blue="0.96470588450000005" alpha="1" colorSpace="calibratedRGB"/>
                         </textAttributes>

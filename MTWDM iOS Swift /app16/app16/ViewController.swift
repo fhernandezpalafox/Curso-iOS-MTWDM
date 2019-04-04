@@ -63,8 +63,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
                 let longitud  = locationData.location?.coordinate.longitude
 
                 
-                print(latitud)
-                print(longitud)
+                //print(latitud)
+                //print(longitud)
                 
                 let location  = "\(city)\n, \(state)\n,  \(zipCode)\n, \(country)\n, \(latitud!)\n \(longitud!)\n"
                 
