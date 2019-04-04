@@ -33,7 +33,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     func obtenerPosicion() {
         
         locationManager.requestAlwaysAuthorization()
-        locationManager.desiredAccuracy = kCLLocationAccuracyKilometer
+        locationManager.desiredAccuracy = kCLLocationAccuracyBest
         locationManager.startUpdatingLocation()
     }
     
@@ -56,7 +56,17 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
                 let zipCode  =  locationData.postalCode!
                 let country  = locationData.country!
                 
-                let location  = "\(city), \(state)  \(zipCode), \(country)"
+                
+                
+                let latitud  = locationData.location?.coordinate.latitude
+                
+                let longitud  = locationData.location?.coordinate.longitude
+
+                
+                print(latitud)
+                print(longitud)
+                
+                let location  = "\(city)\n, \(state)\n,  \(zipCode)\n, \(country)\n, \(latitud!)\n \(longitud!)\n"
                 
                 self.posicionLabel.text = location
                 self.posicionLabel.textColor = .black
