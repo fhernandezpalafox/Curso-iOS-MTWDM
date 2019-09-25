@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7681CFD4-CDA4-4BEB-8CFA-6C7C4FBAF6D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppChangeTheme/ViewController.cs">
+    <Files>
+      <File FileName="AppChangeTheme/ViewController.cs" Line="44" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppChangeTheme" expanded="True">
+            <Node name="AppChangeTheme" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppChangeTheme PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.978190A6-85B8-49C7-ADE0-DD780D7CBF8E" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
