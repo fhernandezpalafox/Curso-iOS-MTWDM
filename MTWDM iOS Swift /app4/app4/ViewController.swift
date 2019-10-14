@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     @IBAction func onChangeValue(_ sender: UISlider) {
         
-        var slider = sender as! UISlider
+        var slider = sender
         
         lblSaludo.textColor = UIColor(hue: 0, saturation: 0, brightness: 0, alpha: CGFloat(sender.value))
         

@@ -43,25 +43,4 @@ class Model {
         return formatter.string(from: totalAmount as NSNumber)!
     }
     
-    
-    
-    
-    
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

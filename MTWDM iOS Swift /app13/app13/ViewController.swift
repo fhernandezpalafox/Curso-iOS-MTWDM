@@ -12,7 +12,6 @@ class ViewController: UITableViewController {
 
     // MARK: - Propiedades
     let alfabetoArreglo = Array(modelo.lugares.keys).sorted{$0 < $1}
-    //La Ñ
     
     
     override func viewDidLoad() {
