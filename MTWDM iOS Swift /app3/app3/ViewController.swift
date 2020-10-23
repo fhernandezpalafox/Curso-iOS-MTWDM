@@ -40,13 +40,7 @@ class ViewController: UIViewController {
             EditorTexto.keyboardAppearance = .default
             UIApplication.shared.statusBarStyle = .default
             
-            
-            /*  var preferredStatusBarStyle : UIStatusBarStyle {
-             return .lightContent
-             }*/
-            
         }
-        
          EditorTexto.becomeFirstResponder()
     }
     

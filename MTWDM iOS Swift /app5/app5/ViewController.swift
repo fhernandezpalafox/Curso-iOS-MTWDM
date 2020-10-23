@@ -20,6 +20,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     let model = Model()
     
     @IBAction func dragSlider(_ sender: UISlider) {
+        //var slider = sender as! UISlider
         tipPercentLabel.text = "Tip (\(Int(sender.value))%):"
         
         model.tipPercentFromSlider = Int(sender.value)
@@ -52,7 +53,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     }
     
     @objc func dismissKeyboard() {
-        subtotalTextfield.resignFirstResponder()
+        subtotalTextfield.resignFirstResponder() //Ocultar
         tipPercentSlider.isEnabled = true
         
         if subtotalTextfield.text?.count == 0 { //characters.count
@@ -85,7 +86,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        subtotalTextfield.becomeFirstResponder()
+        subtotalTextfield.becomeFirstResponder() //Mostrar
         createToolbar()
         tipPercentSlider.isEnabled = false
     }

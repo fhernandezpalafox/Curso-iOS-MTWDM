@@ -8,7 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+class ViewController: UIViewController, UIImagePickerControllerDelegate,
+UINavigationControllerDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,9 +21,11 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     // MARK: - Eventos
     @IBAction func onSeleccionaFoto(_ sender: UIBarButtonItem) {
+        
         let imagePicker = UIImagePickerController()
         present(imagePicker, animated: true, completion: nil)
         imagePicker.delegate = self
+        
     }
     
     

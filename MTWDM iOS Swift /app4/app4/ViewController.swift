@@ -16,17 +16,16 @@ class ViewController: UIViewController {
     
     @IBAction func onChangeValue(_ sender: UISlider) {
         
-        var slider = sender
+        let slider = sender as! UISlider
         
         lblSaludo.textColor = UIColor(hue: 0, saturation: 0, brightness: 0, alpha: CGFloat(sender.value))
         
         
-        print("\(sender.value)")
+        print("\(slider.value)")
         
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
         
          lblSaludo.textColor = UIColor(hue: 0, saturation: 0, brightness: 0, alpha: CGFloat(sliderAlfa.value))
     }

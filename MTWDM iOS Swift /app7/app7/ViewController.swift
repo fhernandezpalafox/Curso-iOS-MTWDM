@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         editorTexto.becomeFirstResponder()
     }
 
+    //PrepareForSegue sirva para pasar datos de una UIViewController a otra por medio de los segue´s
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
         MensajePropGlobal = editorTexto.text

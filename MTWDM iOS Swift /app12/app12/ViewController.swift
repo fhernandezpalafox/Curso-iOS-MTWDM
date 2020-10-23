@@ -13,9 +13,12 @@ class ViewController: UITableViewController {
     // MARK: - View Did Load
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         self.navigationItem.leftBarButtonItem = self.editButtonItem
         self.navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(segueNuevoComestible))
+        
         self.refreshControl = pullToRefreshControl
+        
         pullToRefreshControl.addTarget(self, action: #selector(refreshTable), for: .valueChanged)
     }
     
@@ -50,6 +53,7 @@ class ViewController: UITableViewController {
         let cell = tableView.dequeueReusableCell(withIdentifier: "comestiblesCell", for: indexPath)
         
         cell.textLabel?.text = modelo.datos[indexPath.row]
+      
         
         return cell
     }

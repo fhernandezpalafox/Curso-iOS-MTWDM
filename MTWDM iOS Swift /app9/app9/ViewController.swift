@@ -28,6 +28,7 @@ class ViewController: UITableViewController  {
         return comestibles.count
     }
     
+    
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "comestiblesCell", for: indexPath)
@@ -36,7 +37,5 @@ class ViewController: UITableViewController  {
         
         return cell
     }
-
-
 }
 
