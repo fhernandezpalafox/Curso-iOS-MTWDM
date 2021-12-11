@@ -13,3 +13,26 @@
 /Users/felipehernandez/Projects/AppSQLite/Entidades/bin/Debug/SQLite-net.xml
 /Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.csprojAssemblyReference.cache
 /Users/felipehernandez/Projects/AppSQLite/Entidades/obj/Debug/Entidades.csproj.CopyComplete
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/Entidades.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/Entidades.pdb
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLite-net.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.core.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLite-net.pdb
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/SQLite-net.xml
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/actool/_PartialAppManifest.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/_ProcessedContentPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/optimized/
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/Entidades.csproj.CopyComplete
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/Entidades.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/obj/Debug/Entidades.pdb

@@ -19,7 +19,8 @@ namespace AppSQLite
         }
 
 
-        public void CrearTablas(){
+        public void CrearTablas()
+        {
             conexion.CreateTable<Empresa>();
         }
     }

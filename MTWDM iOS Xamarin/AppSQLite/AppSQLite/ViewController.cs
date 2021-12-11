@@ -196,6 +196,30 @@ namespace AppSQLite
 
         }
 
+        public override void ViewDidAppear(bool animated)
+        {
+            base.ViewDidAppear(animated);
+
+            UpdateSettings(null);
+
+            var Empresas = objConexion.conexion.Table<Empresa>();
+
+            lista.Clear();
+            foreach (var fila in Empresas)
+            {
+                lista.Add(new Empresa
+                {
+                    Domicilio = fila.Domicilio,
+                    Nombre = fila.Nombre,
+                    RFC = fila.RFC,
+                    RepresentanteLegal = fila.RepresentanteLegal
+                });
+            }
+
+            Tabla.Source = null;
+            Tabla.Source = new DatosTableSource(lista, this);
+            Tabla.ReloadData();
+        }
     }
 
 

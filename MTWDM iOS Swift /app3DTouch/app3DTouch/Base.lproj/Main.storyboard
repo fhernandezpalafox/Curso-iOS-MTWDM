@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="LvI-N3-TGi">
-    <device id="retina6_1" orientation="portrait">
-        <adaptation id="fullscreen"/>
-    </device>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="PAb-XN-IOe">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -22,12 +20,12 @@
                                 <rect key="frame" x="-21.5" y="319.5" width="457" height="257"/>
                             </imageView>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="QpH-e7-bXh" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Hcm-HD-ZR9"/>
                             <constraint firstItem="QpH-e7-bXh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="St1-Gl-VHK"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" title="Imagen 3D Touch" id="ebm-4j-mM7"/>
                     <connections>
@@ -48,7 +46,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="LugarCell" id="cX6-nI-9EF">
-                                <rect key="frame" x="0.0" y="28" width="414" height="44"/>
+                                <rect key="frame" x="0.0" y="44.5" width="414" height="43.5"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="cX6-nI-9EF" id="keE-ru-DPn">
                                     <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
@@ -107,7 +105,7 @@
                                     <constraint firstAttribute="height" constant="217" id="viB-SY-Ivi"/>
                                 </constraints>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ctf-vS-HOY">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ctf-vS-HOY">
                                 <rect key="frame" x="173" y="653" width="50" height="39"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <state key="normal" title="Atras"/>
@@ -116,6 +114,7 @@
                                 </connections>
                             </button>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="qWA-UE-fkz"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="oNS-bH-ROW" firstAttribute="leading" secondItem="n5W-i4-f49" secondAttribute="leadingMargin" id="9Lp-me-XiL"/>
@@ -127,7 +126,6 @@
                             <constraint firstItem="3Ng-He-MFj" firstAttribute="top" secondItem="oNS-bH-ROW" secondAttribute="bottom" constant="21" id="pm5-mB-m2a"/>
                             <constraint firstItem="oNS-bH-ROW" firstAttribute="top" secondItem="qWA-UE-fkz" secondAttribute="top" constant="10" id="zz3-db-hPV"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="qWA-UE-fkz"/>
                     </view>
                     <navigationItem key="navigationItem" title="Detalle" id="pqn-FJ-Abw"/>
                     <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>

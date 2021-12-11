@@ -1,0 +1,31 @@
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/AppSQLite.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/../../64bits/iOS/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/Entidades/bin/Debug/Entidades.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/sqlite-net-pcl.1.8.116/lib/netstandard2.0/SQLite-net.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/Facades/netstandard.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Data.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Transactions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Data.DataSetExtensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.IO.Compression.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.IO.Compression.FileSystem.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.ServiceModel.Internals.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Web.Services.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/SQLitePCLRaw.core.2.0.7/lib/netstandard2.0/SQLitePCLRaw.core.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/15.2.0.1/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/SQLitePCLRaw.bundle_green.2.0.7/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/packages/SQLitePCLRaw.provider.sqlite3.2.0.7/lib/netstandard2.0/SQLitePCLRaw.provider.sqlite3.dll

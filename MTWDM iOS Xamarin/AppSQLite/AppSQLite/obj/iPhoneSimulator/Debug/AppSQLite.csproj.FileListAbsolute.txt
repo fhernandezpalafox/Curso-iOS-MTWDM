@@ -20,3 +20,35 @@
 /Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-12.1/optimized/
 /Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.csprojAssemblyReference.cache
 /Users/felipehernandez/Projects/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.csproj.CopyComplete
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/AppSQLite.exe
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/AppSQLite.pdb
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/Entidades.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/Entidades.pdb
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/actool/_PartialAppManifest.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/actool/_ProcessedImageAssetsPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/coremlc/_PartialAppManifest.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/_ProcessedBundleResourcesPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/_ProcessedContentPath.items
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/optimized/Settings.bundle/Root.plist
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/device-builds/iphone 13-15.0/optimized/
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.csproj.AssemblyReference.cache
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.csproj.CopyComplete
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.exe
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/obj/iPhoneSimulator/Debug/AppSQLite.pdb
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/System.Buffers.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/System.Memory.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/System.Buffers.xml
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/felipehernandez/Documents/GitHub/Curso-iOS-MTWDM/MTWDM iOS Xamarin/AppSQLite/AppSQLite/bin/iPhoneSimulator/Debug/System.Memory.xml

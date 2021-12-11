@@ -1,16 +1,23 @@
 ﻿<Properties StartupConfiguration="{1023CE29-5845-4E35-B7B8-25707FFE9E58}|Default">
-  <MonoDevelop.Ide.ItemProperties.AppSQLite automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8EEB03FD-5599-47FE-8900-6275EFAF771E" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AppSQLite/ViewController.cs">
+  <MonoDevelop.Ide.ItemProperties.AppSQLite automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C9A2CF86-EB0C-4A6E-90A7-711549A5E0BF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppSQLite/AltaViewController.cs">
     <Files>
-      <File FileName="AppSQLite/EditarViewController.cs" Line="22" Column="39" />
-      <File FileName="AppSQLite/AppDelegate.cs" Line="24" Column="33" />
-      <File FileName="AppSQLite/Settings.cs" Line="1" Column="1" />
-      <File FileName="AppSQLite/Utilidades.cs" Line="27" Column="13" />
-      <File FileName="AppSQLite/AltaViewController.cs" Line="103" Column="49" />
-      <File FileName="AppSQLite/Info.plist" />
-      <File FileName="AppSQLite/ViewController.cs" Line="253" Column="38" />
-      <File FileName="AppSQLite/Main.storyboard" />
+      <File FileName="AppSQLite/ViewController.cs" Line="320" Column="18" />
+      <File FileName="AppSQLite/Conexion.cs" Line="3" Column="14" />
+      <File FileName="AppSQLite/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="AppSQLite/AltaViewController.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppSQLite" expanded="True">
+            <Node name="AppSQLite" expanded="True">
+              <Node name="AltaViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
