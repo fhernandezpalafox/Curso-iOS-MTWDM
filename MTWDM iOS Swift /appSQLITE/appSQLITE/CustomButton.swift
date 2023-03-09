@@ -10,6 +10,10 @@ import UIKit
 
 class CustomButton: UIButton {
     
+    /*
+     Prepara el receptor para el servicio después de que se haya cargado desde un archivo de Interface Builder o un archivo nib.
+     
+     */
     override func awakeFromNib() {
         super.awakeFromNib()
         configurarPropiedades()
